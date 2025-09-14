@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "ULN",
+  "latitude": 47.8651,
+  "longitude": 107.0532,
+  "elevation": 0,
+  "distance_km": 5040.9,
+  "azimuth": 10.5,
+  "p_arrival": 495.249,
+  "s_arrival": 894.718,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

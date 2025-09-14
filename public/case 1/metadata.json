@@ -1,0 +1,74 @@
+{
+  "earthquake": {
+    "id": "query?eventid=12001972",
+    "time": "2025-08-03T05:37:55.148000",
+    "latitude": 50.5853,
+    "longitude": 157.8643,
+    "depth": 30,
+    "magnitude": 6.8,
+    "location": "KURIL ISLANDS",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Betydeligt jordskælv"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "MA2",
+      "latitude": 59.5756,
+      "longitude": 150.77,
+      "distance_km": 1097.2,
+      "azimuth": 338.5,
+      "p_arrival": 139.599,
+      "s_arrival": 250.101
+    },
+    {
+      "network": "IU",
+      "station": "BILL",
+      "latitude": 68.0653,
+      "longitude": 166.4531,
+      "distance_km": 2003.1,
+      "azimuth": 10.4,
+      "p_arrival": 247.799,
+      "s_arrival": 448.341
+    },
+    {
+      "network": "IU",
+      "station": "INCN",
+      "latitude": 37.47768,
+      "longitude": 126.62436,
+      "distance_km": 2865.8,
+      "azimuth": 251.6,
+      "p_arrival": 327.833,
+      "s_arrival": 595.798
+    },
+    {
+      "network": "II",
+      "station": "KDAK",
+      "latitude": 57.7828,
+      "longitude": -152.5835,
+      "distance_km": 3253.3,
+      "azimuth": 56.4,
+      "p_arrival": 359.027,
+      "s_arrival": 650.604
+    },
+    {
+      "network": "IU",
+      "station": "TATO",
+      "latitude": 24.9735,
+      "longitude": 121.4971,
+      "distance_km": 4210.4,
+      "azimuth": 241.3,
+      "p_arrival": 433.626,
+      "s_arrival": 783.424
+    }
+  ],
+  "export_date": "2025-09-13T14:17:29.570919",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

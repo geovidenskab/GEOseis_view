@@ -1,0 +1,74 @@
+{
+  "earthquake": {
+    "id": "query?eventid=10402114",
+    "time": "2017-09-08T04:49:20",
+    "latitude": 15.0356,
+    "longitude": -93.9067,
+    "depth": 56.67,
+    "magnitude": 8.1,
+    "location": "NEAR COAST OF CHIAPAS, MEXICO",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Megathrust jordskælv - ekstremt sjældent"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "TEIG",
+      "latitude": 20.22624,
+      "longitude": -88.27633,
+      "distance_km": 828.7,
+      "azimuth": 45.3,
+      "p_arrival": 105.929,
+      "s_arrival": 189.666
+    },
+    {
+      "network": "IU",
+      "station": "HKT",
+      "latitude": 29.9618,
+      "longitude": -95.8384,
+      "distance_km": 1664.8,
+      "azimuth": 353.5,
+      "p_arrival": 207.888,
+      "s_arrival": 373.051
+    },
+    {
+      "network": "IU",
+      "station": "ANMO",
+      "latitude": 34.94591,
+      "longitude": -106.4572,
+      "distance_km": 2538.2,
+      "azimuth": 332.6,
+      "p_arrival": 297.823,
+      "s_arrival": 543.747
+    },
+    {
+      "network": "IU",
+      "station": "WVT",
+      "latitude": 36.1297,
+      "longitude": -87.83,
+      "distance_km": 2413.9,
+      "azimuth": 13.4,
+      "p_arrival": 285.983,
+      "s_arrival": 523.559
+    },
+    {
+      "network": "II",
+      "station": "FFC",
+      "latitude": 54.725,
+      "longitude": -101.9783,
+      "distance_km": 4458.9,
+      "azimuth": 352.7,
+      "p_arrival": 449.476,
+      "s_arrival": 811.983
+    }
+  ],
+  "export_date": "2025-09-13T14:22:16.259196",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

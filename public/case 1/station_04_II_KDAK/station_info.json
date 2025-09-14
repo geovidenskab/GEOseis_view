@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "KDAK",
+  "latitude": 57.7828,
+  "longitude": -152.5835,
+  "elevation": 0,
+  "distance_km": 3253.3,
+  "azimuth": 56.4,
+  "p_arrival": 359.027,
+  "s_arrival": 650.604,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

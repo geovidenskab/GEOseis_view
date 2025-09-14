@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "ADK",
+  "latitude": 51.8823,
+  "longitude": -176.6842,
+  "elevation": 0,
+  "distance_km": 1571.2,
+  "azimuth": 83.3,
+  "p_arrival": 197.354,
+  "s_arrival": 353.5,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

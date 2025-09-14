@@ -1,0 +1,84 @@
+{
+  "earthquake": {
+    "id": "query?eventid=2844986",
+    "time": "2010-02-27T06:34:13.330000",
+    "latitude": -36.1485,
+    "longitude": -72.9327,
+    "depth": 28.1,
+    "magnitude": 8.8,
+    "location": "NEAR COAST OF CENTRAL CHILE",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Store subduktionszone jordskælv"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "LVC",
+      "latitude": -22.6127,
+      "longitude": -68.9111,
+      "distance_km": 1549.9,
+      "azimuth": 15.6,
+      "p_arrival": 195.373,
+      "s_arrival": 349.869
+    },
+    {
+      "network": "II",
+      "station": "NNA",
+      "latitude": -11.9875,
+      "longitude": -76.8422,
+      "distance_km": 2705,
+      "azimuth": 350.7,
+      "p_arrival": 314.95,
+      "s_arrival": 573.228
+    },
+    {
+      "network": "IU",
+      "station": "SAML",
+      "latitude": -8.9489,
+      "longitude": -63.1831,
+      "distance_km": 3170.4,
+      "azimuth": 20.5,
+      "p_arrival": 352.665,
+      "s_arrival": 639.332
+    },
+    {
+      "network": "II",
+      "station": "EFI",
+      "latitude": -51.6753,
+      "longitude": -58.0637,
+      "distance_km": 2089.4,
+      "azimuth": 150.3,
+      "p_arrival": 256.847,
+      "s_arrival": 467.349
+    },
+    {
+      "network": "IU",
+      "station": "SDV",
+      "latitude": 8.8839,
+      "longitude": -70.634,
+      "distance_km": 4990.3,
+      "azimuth": 3.2,
+      "p_arrival": 491.361,
+      "s_arrival": 887.677
+    },
+    {
+      "network": "IU",
+      "station": "OTAV",
+      "latitude": 0.2376,
+      "longitude": -78.45076,
+      "distance_km": 4068.6,
+      "azimuth": 350.7,
+      "p_arrival": 423.079,
+      "s_arrival": 764.507
+    }
+  ],
+  "export_date": "2025-09-14T20:57:01.209483",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

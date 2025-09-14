@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "TATO",
+  "latitude": 24.9735,
+  "longitude": 121.4971,
+  "elevation": 0,
+  "distance_km": 3634.6,
+  "azimuth": 46.6,
+  "p_arrival": 389.7,
+  "s_arrival": 704.967,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

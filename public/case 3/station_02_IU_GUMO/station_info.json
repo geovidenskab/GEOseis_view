@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "GUMO",
+  "latitude": 13.5893,
+  "longitude": 144.8684,
+  "elevation": 0,
+  "distance_km": 1829.1,
+  "azimuth": 28.3,
+  "p_arrival": 227.039,
+  "s_arrival": 409.071,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

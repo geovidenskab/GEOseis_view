@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "COCO",
+  "latitude": -12.1901,
+  "longitude": 96.8349,
+  "elevation": 0,
+  "distance_km": 1728.5,
+  "azimuth": 176.6,
+  "p_arrival": 217.082,
+  "s_arrival": 389.193,
+  "sampling_rate": 39.999881744384766,
+  "data_points": 79199,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

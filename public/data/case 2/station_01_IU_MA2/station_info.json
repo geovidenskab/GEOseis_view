@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "MA2",
+  "latitude": 59.5756,
+  "longitude": 150.77,
+  "elevation": 0,
+  "distance_km": 1097.2,
+  "azimuth": 338.5,
+  "p_arrival": 139.599,
+  "s_arrival": 250.101,
+  "sampling_rate": 40.0,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

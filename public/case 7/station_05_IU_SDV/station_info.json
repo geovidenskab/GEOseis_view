@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "SDV",
+  "latitude": 8.8839,
+  "longitude": -70.634,
+  "elevation": 0,
+  "distance_km": 4990.3,
+  "azimuth": 3.2,
+  "p_arrival": 491.361,
+  "s_arrival": 887.677,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

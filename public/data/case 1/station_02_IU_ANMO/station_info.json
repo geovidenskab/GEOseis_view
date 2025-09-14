@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "ANMO",
+  "latitude": 34.94591,
+  "longitude": -106.4572,
+  "elevation": 0,
+  "distance_km": 2538.2,
+  "azimuth": 332.6,
+  "p_arrival": 297.823,
+  "s_arrival": 543.747,
+  "sampling_rate": 40.0,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

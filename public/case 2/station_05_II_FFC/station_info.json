@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "FFC",
+  "latitude": 54.725,
+  "longitude": -101.9783,
+  "elevation": 0,
+  "distance_km": 4458.9,
+  "azimuth": 352.7,
+  "p_arrival": 449.476,
+  "s_arrival": 811.983,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

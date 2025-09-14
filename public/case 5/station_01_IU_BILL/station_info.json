@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "BILL",
+  "latitude": 68.0653,
+  "longitude": 166.4531,
+  "elevation": 0,
+  "distance_km": 1624.8,
+  "azimuth": 19.6,
+  "p_arrival": 184.059,
+  "s_arrival": 335.047,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

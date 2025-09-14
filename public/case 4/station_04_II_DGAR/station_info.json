@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "DGAR",
+  "latitude": -7.4121,
+  "longitude": 72.4525,
+  "elevation": 0,
+  "distance_km": 2866.7,
+  "azimuth": 245.3,
+  "p_arrival": 328.415,
+  "s_arrival": 596.806,
+  "sampling_rate": 40,
+  "data_points": 79201,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

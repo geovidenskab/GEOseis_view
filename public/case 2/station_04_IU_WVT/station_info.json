@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "WVT",
+  "latitude": 36.1297,
+  "longitude": -87.83,
+  "elevation": 0,
+  "distance_km": 2413.9,
+  "azimuth": 13.4,
+  "p_arrival": 285.983,
+  "s_arrival": 523.559,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

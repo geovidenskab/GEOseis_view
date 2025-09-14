@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "SJG",
+  "latitude": 18.1091,
+  "longitude": -66.15,
+  "elevation": 0,
+  "distance_km": 2978.9,
+  "azimuth": 79.5,
+  "p_arrival": 334.33,
+  "s_arrival": 606.976,
+  "sampling_rate": 40.0,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

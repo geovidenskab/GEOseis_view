@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "PMG",
+  "latitude": -9.4047,
+  "longitude": 147.1597,
+  "elevation": 0,
+  "distance_km": 1468.3,
+  "azimuth": 129.9,
+  "p_arrival": 184.517,
+  "s_arrival": 330.417,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

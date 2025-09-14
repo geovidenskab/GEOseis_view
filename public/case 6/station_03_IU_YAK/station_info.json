@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "YAK",
+  "latitude": 62.031,
+  "longitude": 129.6805,
+  "elevation": 0,
+  "distance_km": 2100.2,
+  "azimuth": 312.3,
+  "p_arrival": 257.098,
+  "s_arrival": 468.625,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

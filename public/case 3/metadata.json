@@ -1,0 +1,84 @@
+{
+  "earthquake": {
+    "id": "query?eventid=488488",
+    "time": "1996-02-17T05:59:31.970000",
+    "latitude": -0.9394,
+    "longitude": 136.9471,
+    "depth": 50.4,
+    "magnitude": 8.1,
+    "location": "IRIAN JAYA REGION, INDONESIA",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Megathrust jordskælv - ekstremt sjældent"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "PMG",
+      "latitude": -9.4047,
+      "longitude": 147.1597,
+      "distance_km": 1468.3,
+      "azimuth": 129.9,
+      "p_arrival": 184.517,
+      "s_arrival": 330.417
+    },
+    {
+      "network": "IU",
+      "station": "GUMO",
+      "latitude": 13.5893,
+      "longitude": 144.8684,
+      "distance_km": 1829.1,
+      "azimuth": 28.3,
+      "p_arrival": 227.039,
+      "s_arrival": 409.071
+    },
+    {
+      "network": "IU",
+      "station": "MAJO",
+      "latitude": 36.54567,
+      "longitude": 138.20406,
+      "distance_km": 4152,
+      "azimuth": 1.7,
+      "p_arrival": 427.014,
+      "s_arrival": 771.609
+    },
+    {
+      "network": "IU",
+      "station": "HNR",
+      "latitude": -9.4387,
+      "longitude": 159.9475,
+      "distance_km": 2715.3,
+      "azimuth": 111,
+      "p_arrival": 313.465,
+      "s_arrival": 570.556
+    },
+    {
+      "network": "IU",
+      "station": "INCN",
+      "latitude": 37.4776,
+      "longitude": 126.6239,
+      "distance_km": 4384.4,
+      "azimuth": 347,
+      "p_arrival": 444.538,
+      "s_arrival": 803.083
+    },
+    {
+      "network": "II",
+      "station": "WRAB",
+      "latitude": -19.9336,
+      "longitude": 134.36,
+      "distance_km": 2120,
+      "azimuth": 187.5,
+      "p_arrival": 257.887,
+      "s_arrival": 471.98
+    }
+  ],
+  "export_date": "2025-09-14T20:33:39.569965",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

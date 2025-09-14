@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "POHA",
+  "latitude": 19.7573,
+  "longitude": -155.5326,
+  "elevation": 0,
+  "distance_km": 5317.3,
+  "azimuth": 112.5,
+  "p_arrival": 514.192,
+  "s_arrival": 929.349,
+  "sampling_rate": 40.0,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "MAJO",
+  "latitude": 36.54567,
+  "longitude": 138.20406,
+  "elevation": 0,
+  "distance_km": 5672.2,
+  "azimuth": 44.2,
+  "p_arrival": 539.087,
+  "s_arrival": 974.953,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

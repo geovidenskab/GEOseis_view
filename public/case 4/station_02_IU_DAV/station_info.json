@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "DAV",
+  "latitude": 7.0697,
+  "longitude": 125.5791,
+  "elevation": 0,
+  "distance_km": 3313.9,
+  "azimuth": 81.8,
+  "p_arrival": 364.361,
+  "s_arrival": 660.027,
+  "sampling_rate": 20,
+  "data_points": 39600,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

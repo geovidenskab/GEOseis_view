@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "NNA",
+  "latitude": -11.9875,
+  "longitude": -76.8422,
+  "elevation": 0,
+  "distance_km": 2705,
+  "azimuth": 350.7,
+  "p_arrival": 314.95,
+  "s_arrival": 573.228,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

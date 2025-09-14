@@ -1,0 +1,84 @@
+{
+  "earthquake": {
+    "id": "query?eventid=1916079",
+    "time": "2004-12-26T00:58:52.050000",
+    "latitude": 3.4125,
+    "longitude": 95.9012,
+    "depth": 26.1,
+    "magnitude": 9,
+    "location": "OFF W COAST OF NORTHERN SUMATRA",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Megathrust jordskælv - ekstremt sjældent"
+  },
+  "stations": [
+    {
+      "network": "II",
+      "station": "COCO",
+      "latitude": -12.1901,
+      "longitude": 96.8349,
+      "distance_km": 1728.5,
+      "azimuth": 176.6,
+      "p_arrival": 217.082,
+      "s_arrival": 389.193
+    },
+    {
+      "network": "IU",
+      "station": "DAV",
+      "latitude": 7.0697,
+      "longitude": 125.5791,
+      "distance_km": 3313.9,
+      "azimuth": 81.8,
+      "p_arrival": 364.361,
+      "s_arrival": 660.027
+    },
+    {
+      "network": "IU",
+      "station": "TATO",
+      "latitude": 24.9735,
+      "longitude": 121.4971,
+      "distance_km": 3634.6,
+      "azimuth": 46.6,
+      "p_arrival": 389.7,
+      "s_arrival": 704.967
+    },
+    {
+      "network": "II",
+      "station": "DGAR",
+      "latitude": -7.4121,
+      "longitude": 72.4525,
+      "distance_km": 2866.7,
+      "azimuth": 245.3,
+      "p_arrival": 328.415,
+      "s_arrival": 596.806
+    },
+    {
+      "network": "IU",
+      "station": "ULN",
+      "latitude": 47.8651,
+      "longitude": 107.0532,
+      "distance_km": 5040.9,
+      "azimuth": 10.5,
+      "p_arrival": 495.249,
+      "s_arrival": 894.718
+    },
+    {
+      "network": "IU",
+      "station": "MAJO",
+      "latitude": 36.54567,
+      "longitude": 138.20406,
+      "distance_km": 5672.2,
+      "azimuth": 44.2,
+      "p_arrival": 539.087,
+      "s_arrival": 974.953
+    }
+  ],
+  "export_date": "2025-09-14T20:39:54.432093",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "HKT",
+  "latitude": 29.9618,
+  "longitude": -95.8384,
+  "elevation": 0,
+  "distance_km": 1664.8,
+  "azimuth": 353.5,
+  "p_arrival": 207.888,
+  "s_arrival": 373.051,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "WRAB",
+  "latitude": -19.9336,
+  "longitude": 134.36,
+  "elevation": 0,
+  "distance_km": 2120,
+  "azimuth": 187.5,
+  "p_arrival": 257.887,
+  "s_arrival": 471.98,
+  "sampling_rate": 40.00004196166992,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "TIXI",
+  "latitude": 71.6341,
+  "longitude": 128.8667,
+  "elevation": 0,
+  "distance_km": 2626.6,
+  "azimuth": 335.7,
+  "p_arrival": 307.625,
+  "s_arrival": 560.317,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

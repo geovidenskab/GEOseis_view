@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "OTAV",
+  "latitude": 0.2376,
+  "longitude": -78.45076,
+  "elevation": 0,
+  "distance_km": 4068.6,
+  "azimuth": 350.7,
+  "p_arrival": 423.079,
+  "s_arrival": 764.507,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

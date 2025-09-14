@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "SAML",
+  "latitude": -8.9489,
+  "longitude": -63.1831,
+  "elevation": 0,
+  "distance_km": 3170.4,
+  "azimuth": 20.5,
+  "p_arrival": 352.665,
+  "s_arrival": 639.332,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

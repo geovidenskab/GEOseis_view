@@ -1,0 +1,74 @@
+{
+  "earthquake": {
+    "id": "query?eventid=11999904",
+    "time": "2025-07-29T23:24:52.480000",
+    "latitude": 52.498,
+    "longitude": 160.2637,
+    "depth": 35,
+    "magnitude": 8.8,
+    "location": "OFF EAST COAST OF KAMCHATKA",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Megathrust jordskælv - ekstremt sjældent"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "ADK",
+      "latitude": 51.8823,
+      "longitude": -176.6842,
+      "distance_km": 1571.2,
+      "azimuth": 83.3,
+      "p_arrival": 197.354,
+      "s_arrival": 353.5
+    },
+    {
+      "network": "IU",
+      "station": "TIXI",
+      "latitude": 71.6341,
+      "longitude": 128.8667,
+      "distance_km": 2626.6,
+      "azimuth": 335.7,
+      "p_arrival": 307.625,
+      "s_arrival": 560.317
+    },
+    {
+      "network": "IU",
+      "station": "YAK",
+      "latitude": 62.031,
+      "longitude": 129.6805,
+      "distance_km": 2100.2,
+      "azimuth": 312.3,
+      "p_arrival": 257.098,
+      "s_arrival": 468.625
+    },
+    {
+      "network": "II",
+      "station": "TLY",
+      "latitude": 51.6807,
+      "longitude": 103.6438,
+      "distance_km": 3780.5,
+      "azimuth": 291.8,
+      "p_arrival": 399.929,
+      "s_arrival": 723.242
+    },
+    {
+      "network": "II",
+      "station": "ALE",
+      "latitude": 82.5033,
+      "longitude": -62.35,
+      "distance_km": 4827.8,
+      "azimuth": 7.4,
+      "p_arrival": 478.728,
+      "s_arrival": 864.832
+    }
+  ],
+  "export_date": "2025-09-14T20:49:20.706989",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}

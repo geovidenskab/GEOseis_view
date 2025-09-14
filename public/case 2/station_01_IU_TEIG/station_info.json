@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "TEIG",
+  "latitude": 20.22624,
+  "longitude": -88.27633,
+  "elevation": 0,
+  "distance_km": 828.7,
+  "azimuth": 45.3,
+  "p_arrival": 105.929,
+  "s_arrival": 189.666,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

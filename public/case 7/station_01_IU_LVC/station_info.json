@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "LVC",
+  "latitude": -22.6127,
+  "longitude": -68.9111,
+  "elevation": 0,
+  "distance_km": 1549.9,
+  "azimuth": 15.6,
+  "p_arrival": 195.373,
+  "s_arrival": 349.869,
+  "sampling_rate": 40,
+  "data_points": 24662,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

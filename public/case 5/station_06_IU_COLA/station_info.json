@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "COLA",
+  "latitude": 64.873599,
+  "longitude": -147.8616,
+  "elevation": 0,
+  "distance_km": 3336.1,
+  "azimuth": 46.8,
+  "p_arrival": 320.877,
+  "s_arrival": 577.946,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

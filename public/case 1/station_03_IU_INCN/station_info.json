@@ -1,0 +1,17 @@
+{
+  "network": "IU",
+  "station": "INCN",
+  "latitude": 37.47768,
+  "longitude": 126.62436,
+  "elevation": 0,
+  "distance_km": 2865.8,
+  "azimuth": 251.6,
+  "p_arrival": 327.833,
+  "s_arrival": 595.798,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

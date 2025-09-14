@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "EFI",
+  "latitude": -51.6753,
+  "longitude": -58.0637,
+  "elevation": 0,
+  "distance_km": 2089.4,
+  "azimuth": 150.3,
+  "p_arrival": 256.847,
+  "s_arrival": 467.349,
+  "sampling_rate": 40,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

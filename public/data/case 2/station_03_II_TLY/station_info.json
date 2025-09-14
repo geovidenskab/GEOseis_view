@@ -1,0 +1,17 @@
+{
+  "network": "II",
+  "station": "TLY",
+  "latitude": 51.6807,
+  "longitude": 103.6438,
+  "elevation": 0,
+  "distance_km": 3708.6,
+  "azimuth": 293.4,
+  "p_arrival": 394.984,
+  "s_arrival": 714.396,
+  "sampling_rate": 40.0,
+  "data_points": 79200,
+  "time_range": {
+    "start": null,
+    "end": null
+  }
+}

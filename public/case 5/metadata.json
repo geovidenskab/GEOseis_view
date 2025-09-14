@@ -1,0 +1,84 @@
+{
+  "earthquake": {
+    "id": "query?eventid=4218658",
+    "time": "2013-05-24T05:44:49.880000",
+    "latitude": 54.815,
+    "longitude": 153.3912,
+    "depth": 607,
+    "magnitude": 8.3,
+    "location": "SEA OF OKHOTSK",
+    "event_type": "earthquake",
+    "source": "IRIS",
+    "signature_explanation": "Megathrust jordskælv - ekstremt sjældent"
+  },
+  "stations": [
+    {
+      "network": "IU",
+      "station": "BILL",
+      "latitude": 68.0653,
+      "longitude": 166.4531,
+      "distance_km": 1624.8,
+      "azimuth": 19.6,
+      "p_arrival": 184.059,
+      "s_arrival": 335.047
+    },
+    {
+      "network": "IU",
+      "station": "ADK",
+      "latitude": 51.8823,
+      "longitude": -176.6842,
+      "distance_km": 2003.5,
+      "azimuth": 87,
+      "p_arrival": 215.186,
+      "s_arrival": 390.624
+    },
+    {
+      "network": "IU",
+      "station": "MAJO",
+      "latitude": 36.54567,
+      "longitude": 138.20406,
+      "distance_km": 2338.7,
+      "azimuth": 216,
+      "p_arrival": 242.368,
+      "s_arrival": 438.369
+    },
+    {
+      "network": "IU",
+      "station": "TATO",
+      "latitude": 24.9735,
+      "longitude": 121.4971,
+      "distance_km": 4220.1,
+      "azimuth": 231.3,
+      "p_arrival": 386.999,
+      "s_arrival": 697.08
+    },
+    {
+      "network": "II",
+      "station": "TLY",
+      "latitude": 51.6807,
+      "longitude": 103.6438,
+      "distance_km": 3268.4,
+      "azimuth": 284.8,
+      "p_arrival": 315.664,
+      "s_arrival": 568.619
+    },
+    {
+      "network": "IU",
+      "station": "COLA",
+      "latitude": 64.873599,
+      "longitude": -147.8616,
+      "distance_km": 3336.1,
+      "azimuth": 46.8,
+      "p_arrival": 320.877,
+      "s_arrival": 577.946
+    }
+  ],
+  "export_date": "2025-09-14T20:44:26.191247",
+  "export_options": {
+    "include_metadata": true,
+    "include_station_info": true,
+    "time_range": "earthquake_to_s_plus_500s",
+    "downsampled": true
+  },
+  "description": "Triangulering data - seismisk data for multiple stationer"
+}
