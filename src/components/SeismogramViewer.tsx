@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Plot from 'react-plotly.js';
-import * as XLSX from 'xlsx';
 
 interface Station {
   network: string;
