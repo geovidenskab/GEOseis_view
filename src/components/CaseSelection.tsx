@@ -28,7 +28,7 @@ const CaseSelection: React.FC<CaseSelectionProps> = ({ onCaseSelected }) => {
       // Load all 7 cases metadata
       const casePromises = [];
       for (let i = 1; i <= 7; i++) {
-        casePromises.push(fetch(`/case ${i}/metadata.json`).then(res => res.json()));
+        casePromises.push(fetch(`./case ${i}/metadata.json`).then(res => res.json()));
       }
       
       const caseDataArray = await Promise.all(casePromises);

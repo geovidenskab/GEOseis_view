@@ -45,7 +45,7 @@ const SeismogramViewer: React.FC<SeismogramViewerProps> = ({
 
   const loadCSVComponent = useCallback(async (filename: string) => {
     try {
-      const url = `/${encodeURIComponent(caseData.metadata.caseName)}/${filename}`;
+      const url = `./${encodeURIComponent(caseData.metadata.caseName)}/${filename}`;
       console.log('Fetching CSV from URL:', url);
       
       const response = await fetch(url);
